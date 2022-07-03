@@ -1,0 +1,158 @@
+.nav-container{
+  margin-top: 0px;
+}
+
+.navbar-brand{
+  font-family: 'Joan', serif;
+  font-size: 3em;
+  color: white;
+  margin-top: 0px;
+}
+
+.navbar-brand:hover{
+  color: white;
+}
+
+.nav-link{
+  color: black;
+  font-family: 'Source Serif Pro', serif;
+  style="background-color: #FCD307;"
+  font-size: 1.1rem;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
+}
+
+.navbar-toggler{
+  margin-right: 4%;
+}
+
+.nav-hr{
+  position: absolute;
+  top: 20%;
+  color: white;
+}
+
+.img1{
+  height: 800px;
+  width: 100%;
+  margin-top: 0px;
+
+}
+
+.top-container{
+  position: absolute;
+  top: 40%;
+  left: 5%;
+}
+
+.headline{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.btn:hover{
+  background-color: black;
+}
+
+.btn-text{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-text:hover{
+  color: white;
+}
+
+.img2{
+  height: 500px;
+  width: 500px;
+  margin: 10% 5% 10% 5%;
+}
+
+.heading{
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  line-height: 1.5;
+  font-size: 3rem;
+  margin-top: 6%;
+  margin-bottom: 10px;
+}
+
+.designs-img{
+  height: 300px;
+  width: 70%;
+  margin-top: 10%;
+  margin-bottom: 20px;
+}
+
+.designs-type-text{
+  text-decoration: none;
+  color: black;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.3rem;
+}
+
+.reviews{
+  font-family: 'Source Serif Pro', serif;
+  margin: 5% auto;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.review-img{
+  width: 10%;
+}
+
+.name-review{
+  font-family:  'Libre Baskerville', serif;
+  font-size: 1.5rem;
+  width:50%;
+  margin-left: 1.2%;
+}
+
+.people-review{
+  text-align: center;
+  width: 50%;
+  margin: 3% 25%;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.3rem;
+}
+
+.quote{
+  font-size: 2rem;
+  font-family: 'Libre Baskerville', serif;
+  margin-top: 30px;
+}
+
+.quote-text{
+  margin-top: 20px;
+  padding: 20px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5rem;
+}
+
+.download-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  margin-top: 0px;
+}
+
+.card{
+    margin: 3% 2%;
+}
+
+.card-btn{
+  align-items: center;
+}
+
+.footer-text{
+  line-height: 2.5;
+  font-size: 1rem;
+  background-color: #D3CEDF;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
