@@ -1,16 +1,7 @@
-.nav-container{
-  margin-top: 0px;
-}
-
 .navbar-brand{
   font-family: 'Joan', serif;
-  font-size: 3em;
-  color: white;
+  font-size: 3rem;
   margin-top: 0px;
-}
-
-.navbar-brand:hover{
-  color: white;
 }
 
 .nav-link{
@@ -24,27 +15,12 @@
   text-decoration: underline;
 }
 
-.navbar-toggler{
-  margin-right: 4%;
-}
-
-.nav-hr{
-  position: absolute;
-  top: 20%;
-  color: white;
-}
-
 .img1{
-  height: 800px;
+  position: relative;
+  height: 750px;
   width: 100%;
-  margin-top: 0px;
-
-}
-
-.top-container{
-  position: absolute;
-  top: 40%;
-  left: 5%;
+  top: 0px;
+  z-index: -1;
 }
 
 .headline{
@@ -52,6 +28,44 @@
   font-size: 3rem;
   line-height: 1.5;
   color: white;
+}
+
+@media (max-width: 750px) {
+
+  .top-container{
+    position: absolute;
+    top: 220px;
+    text-align: center;
+    z-index: 1;
+    left: 0px;
+  }
+
+  .headline{
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .btn{
+    padding: 1%;
+  }
+
+  .img1{
+    height: 500px;
+    position: relative;
+    top: 0px;
+  }
+}
+
+@media (min-width: 750px){
+      .top-container{
+        position:absolute;
+        top: 40%;
+        left: 5% ;
+      }
+
+      .contact{
+        margin-right: 50px;
+      }
 }
 
 .btn:hover{
@@ -78,8 +92,7 @@
   font-family: 'Libre Baskerville', serif;
   line-height: 1.5;
   font-size: 3rem;
-  margin-top: 6%;
-  margin-bottom: 10px;
+  padding: 5%;
 }
 
 .designs-img{
@@ -120,6 +133,7 @@
   margin: 3% 25%;
   font-family: 'Libre Baskerville', serif;
   font-size: 1.3rem;
+  padding-bottom: 5%;
 }
 
 .quote{
@@ -141,12 +155,14 @@
   margin-top: 0px;
 }
 
-.card{
-    margin: 3% 2%;
+.card-header{
+  background-color: #FFF89A;
+  font-family: 'Libre Baskerville', serif;
+  padding: 2%;
 }
 
-.card-btn{
-  align-items: center;
+.card-body{
+  padding: 4%;
 }
 
 .footer-text{
@@ -155,4 +171,13 @@
   background-color: #D3CEDF;
   margin-bottom: 0px;
   margin-top: 0px;
+}
+
+.form-table{
+  border: solid;
+  padding: 5% 5%;
+  margin: 0% 20%;
+  border-width: 3px;
+  color: grey;
+  text-align: center;
 }
