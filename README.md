@@ -32,4 +32,18 @@ The business deals in variety of materials to make their jewellery designs. The 
 
 ![image](https://github.com/riishhabb/JewelsRishab/assets/74229009/5b9b2a0a-8694-4029-b415-f5e5d34dec89)
 
-<a href="Jewels Rishab - Google Chrome 2023-10-14 15-45-15.mp4">
+The website has a customer reviews section which shows that the business is concerned about their customers and prioritize their needs. There are 2 buttons which aure used to go back and forth to see other comments.
+
+![image](https://github.com/riishhabb/JewelsRishab/assets/74229009/7b3c66c0-5b16-486b-9ac9-fd6caa16381c)
+
+The next section is "Memberships". The customer can choose different membership plan which gives them discounts and monthly benefits.
+
+![image](https://github.com/riishhabb/JewelsRishab/assets/74229009/e7c3a602-e600-41de-96e2-17f08c68ab67)
+
+The "About Us" page was designed as per the business theme. It is very basic and unfussy. The fonts is used to describe that the business is running for a long time.
+
+![image](https://github.com/riishhabb/JewelsRishab/assets/74229009/0d51358d-e367-48bf-ad76-9f0df0690335)
+
+This page is used ass a google form in which customer puts their contact information so that the business can collect data of their customers and can use it to send them notifications of the upcoming deals and events.
+
+![image](https://github.com/riishhabb/JewelsRishab/assets/74229009/9e7adb50-df7d-4726-afc8-04f4efe2582c)
